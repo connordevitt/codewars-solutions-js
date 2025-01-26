@@ -17,9 +17,9 @@ Each problem has been solved with a focus on clarity, efficiency, and code reada
 
 ## Structure
 Solutions are categorized into difficulty levels:
-- **Easy/**: Beginner-friendly challenges.
-- **medium/**: Intermediate challenges.
-- **hard/**: Chad level challenges. These guys use Vim.
+- **/Easy**: Beginner-friendly challenges.
+- **/medium**: Intermediate challenges.
+- **/hard**: Chad level challenges. These guys use Vim.
 
 
 ### Example Files:
