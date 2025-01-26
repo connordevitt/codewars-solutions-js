@@ -3,11 +3,8 @@
 // Link: https://www.codewars.com/kata/convert-a-number-to-a-string
 
 function numberToString(num) {
-    return num.toString();
-  }
+  // Return a string of the number here!
+  return num.toString();
   
-  // Test cases
-  console.log(numberToString(123));  // "123"
-  console.log(numberToString(999));  // "999"
-  console.log(numberToString(-100)); // "-100"
+}
   
