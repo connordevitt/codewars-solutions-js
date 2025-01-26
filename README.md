@@ -39,6 +39,4 @@ Solutions are categorized into difficulty levels:
 
 ## Contact
 Feel free to reach out:
-
-- GitHub: [yourusername](https://github.com/yourusername)
-- Email: your-email@example.com
+- Email: Connor.devitt2@gmail.com
