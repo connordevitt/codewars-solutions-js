@@ -27,7 +27,7 @@ Solutions are categorized into difficulty levels:
 - `reversed_strings.js`: Reverses a string.
 - `are_you_playing_banjo.js`: Determines if someone plays banjo.
 - `digitize_reversed_array.js`: Converts a number into reversed digits.
-- `sentence_smash.js` Write a function that takes an array of words and smashes them together into a sentence and returns the sentence. You can ignore any need to sanitize words or add punctuation, but you should add spaces between each word. Be careful, there shouldn't be a space at the beginning or the end of the sentence!
+- `sentence_smash.js` Write a function that takes an array of words and smashes them together into a sentence and returns the sentence.
 
 ---
 
