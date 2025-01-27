@@ -20,6 +20,7 @@ Solutions are categorized into difficulty levels:
 - **/Easy**: Beginner-friendly challenges.
 - **/medium**: Intermediate challenges.
 - **/hard**: Chad level challenges. These guys use Vim.
+- **/Level_Up**: Watch me climb the leaderboard with each level up!
 
 
 ### Example Files:
