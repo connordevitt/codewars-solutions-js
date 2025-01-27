@@ -38,7 +38,3 @@ Solutions are categorized into difficulty levels:
 - Clean and maintainable coding practices.
 
 ---
-
-## Contact
-Feel free to reach out:
-- Email: Connor.devitt2@gmail.com
