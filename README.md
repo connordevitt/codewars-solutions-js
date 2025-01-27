@@ -29,6 +29,7 @@ Solutions are categorized into difficulty levels:
 - `are_you_playing_banjo.js`: Determines if someone plays banjo.
 - `digitize_reversed_array.js`: Converts a number into reversed digits.
 - `sentence_smash.js` Write a function that takes an array of words and smashes them together into a sentence and returns the sentence.
+- `Array.Diff` Your goal in this kata is to implement a difference function, which subtracts one list from another and returns the result. 
 
 ---
 
