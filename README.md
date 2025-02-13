@@ -31,7 +31,7 @@ Solutions are categorized into difficulty levels:
 - `sentence_smash.js` Write a function that takes an array of words and smashes them together into a sentence and returns the sentence.
 - `Array.Diff` Your goal in this kata is to implement a difference function, which subtracts one list from another and returns the result. 
 - `Vowel_Count.js` Write a function which returns the number of vowels within a lower case input field. 
-
+- `Descending_Order.js` take any non-negative integer as an argument and return it with its digits in descending order.
 ---
 
 ## Skills Demonstrated
