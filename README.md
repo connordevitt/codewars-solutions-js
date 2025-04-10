@@ -35,6 +35,7 @@ Solutions are categorized into difficulty levels:
 - `School_paperwork.js` Your task is to calculate how many blank pages do you need. If n < 0 or m < 0 return 0. n are classmates and m pare paperwork pages.
 - `sum_arrays.jsx` Write a function that takes an array of numbers and returns the sum of the numbers. The numbers can be negative or non-integer.
 - `Testing123.js` Write a function which takes a list of strings and returns each line prepended by the correct number.
+- `Powers_Of_two.js` Complete the function that takes a non-negative integer n as input, and returns a list of all the powers of 2.
 ---
 
 ## Skills Demonstrated
@@ -42,5 +43,4 @@ Solutions are categorized into difficulty levels:
 - Problem-solving techniques.
 - Testing with example inputs.
 - Clean and maintainable coding practices.
-
 ---
